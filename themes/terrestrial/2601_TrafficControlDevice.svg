@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="traffic.svg">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4.2230384"
+     inkscape:cx="105.98172"
+     inkscape:cy="112.45053"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       position="13.201969,13.256364"
+       orientation="0,-1"
+       id="guide836" />
+    <sodipodi:guide
+       position="13.201969,13.256364"
+       orientation="1,0"
+       id="guide838" />
+    <sodipodi:guide
+       position="4.1643795,23.800219"
+       orientation="0,-1"
+       id="guide902" />
+    <sodipodi:guide
+       position="5.1390215,3.0669248"
+       orientation="0,-1"
+       id="guide904" />
+    <sodipodi:guide
+       position="4.1643794,23.800219"
+       orientation="1,0"
+       id="guide906" />
+    <sodipodi:guide
+       position="22.239559,23.800219"
+       orientation="1,0"
+       id="guide908" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="0.66976112"
+       y="1.3395222"
+       width="119.88725"
+       height="118.54772"
+       id="rect5432" />
+    <style
+       type="text/css"
+       id="style910">
+   
+    .fil1 {fill:none}
+    .fil0 {fill:black}
+   
+  </style>
+    <style
+       type="text/css"
+       id="style1028">
+   
+    .fil0 {fill:black;fill-rule:nonzero}
+   
+  </style>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#4daf4a;fill-opacity:1;stroke:none;stroke-width:1.07353"
+       id="rect1975"
+       width="25.929167"
+       height="25.929167"
+       x="0.26458332"
+       y="0.26458332"
+       rx="2" />
+    <rect
+       class="fil1"
+       width="1.8062205"
+       height="1.8062205"
+       id="rect934"
+       x="26.503439"
+       y="-9.8018103"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:0.264583;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+    <path
+       d="M 20.927743,11.579839 22.239559,6.7134445 H 18.49651 V 4.2802469 H 8.0019801 V 6.7134445 H 4.2589295 l 1.3118162,4.8663945 h 2.4312344 v 1.62213 H 4.2589295 l 1.3118162,4.866394 h 2.4312344 v 2.433198 H 18.49651 v -2.433198 h 2.431233 l 1.311816,-4.866394 H 18.49651 v -1.62213 z M 18.49651,8.3355741 h 1.504214 L 19.563455,9.9577068 H 18.49651 Z M 8.0019801,16.446233 H 6.9350342 L 6.4977644,14.824101 h 1.5042157 z m 0,-6.4885262 H 6.9350342 L 6.4977644,8.3355741 h 1.5042157 z m 5.2472649,8.1106562 a 2.6236323,2.4331975 0 1 1 2.623632,-2.433197 2.6236323,2.4331975 0 0 1 -2.623632,2.433197 z m 0,-6.488524 a 2.6236323,2.4331975 0 1 1 2.623632,-2.4331973 2.6236323,2.4331975 0 0 1 -2.623632,2.4331973 z m 6.751479,3.244262 -0.437269,1.622132 H 18.49651 v -1.622132 z"
+       id="path1285"
+       style="fill:#ffffff;stroke-width:0.842206" />
+    <ellipse
+       cx="13.249246"
+       cy="9.1466417"
+       id="circle1287"
+       style="stroke-width:0.842206;fill:#ffffff"
+       rx="0.87454408"
+       ry="0.81106579" />
+    <ellipse
+       cx="13.249246"
+       cy="15.635167"
+       id="circle1289"
+       style="stroke-width:0.842206;fill:#ffffff"
+       rx="0.87454408"
+       ry="0.81106579" />
+  </g>
+</svg>
